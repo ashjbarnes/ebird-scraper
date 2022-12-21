@@ -1909,3 +1909,129 @@ DevTools listening on ws://127.0.0.1:60087/devtools/browser/90a33834-d9b0-43f0-9
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://secure.birds.cornell.edu."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://secure.birds.cornell.edu."
 1670106707499	Marionette	INFO	Stopped listening on port 38749
+1671588196272	geckodriver	INFO	Listening on 127.0.0.1:45075
+1671588196732	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38939" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilet6btkC"
+Gtk-Message: 13:03:16.766: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1671588197466	Marionette	INFO	Marionette enabled
+1671588197471	Marionette	INFO	Listening on port 38995
+Read port: 38995
+WebDriver BiDi listening on ws://127.0.0.1:38939
+1671588197590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilet6btkC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38939/devtools/browser/5aeed8ce-bb8a-4f31-a914-491f255d9b25
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://secure.birds.cornell.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://secure.birds.cornell.edu."
+1671588282747	Marionette	INFO	Stopped listening on port 38995
+1671588815236	geckodriver	INFO	Listening on 127.0.0.1:60881
+1671588815714	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "51175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoiHUZx"
+Gtk-Message: 13:13:35.738: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1671588816296	Marionette	INFO	Marionette enabled
+1671588816330	Marionette	INFO	Listening on port 36369
+WebDriver BiDi listening on ws://127.0.0.1:51175
+Read port: 36369
+1671588816582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoiHUZx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51175/devtools/browser/fdd828c9-7d25-4f1f-931f-7e3b4aa1cb7a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://secure.birds.cornell.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://secure.birds.cornell.edu."
+1671588858402	Marionette	INFO	Stopped listening on port 36369
+1671588994382	geckodriver	INFO	Listening on 127.0.0.1:36597
+1671588994837	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "49297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7AojPy"
+Gtk-Message: 13:16:34.860: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1671588995598	Marionette	INFO	Marionette enabled
+1671588995603	Marionette	INFO	Listening on port 34963
+Read port: 34963
+WebDriver BiDi listening on ws://127.0.0.1:49297
+1671588995718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7AojPy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49297/devtools/browser/0ba42693-37ba-4a7c-8429-3cab4e1b90bc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://secure.birds.cornell.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://secure.birds.cornell.edu."
+1671589036742	Marionette	INFO	Stopped listening on port 34963
+1671589039271	geckodriver	INFO	Listening on 127.0.0.1:34115
+1671589039753	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "39231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewPXcFG"
+Gtk-Message: 13:17:19.776: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1671589040370	Marionette	INFO	Marionette enabled
+1671589040374	Marionette	INFO	Listening on port 36465
+Read port: 36465
+WebDriver BiDi listening on ws://127.0.0.1:39231
+1671589040509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewPXcFG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39231/devtools/browser/d4db4d53-6ec0-42a3-9a4a-2ce12d2e19df
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://secure.birds.cornell.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://secure.birds.cornell.edu."
+1671589109461	Marionette	INFO	Stopped listening on port 36465
+1671590539507	geckodriver	INFO	Listening on 127.0.0.1:42871
+1671590539958	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6e1e78"
+Gtk-Message: 13:42:19.982: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1671590540550	Marionette	INFO	Marionette enabled
+1671590540555	Marionette	INFO	Listening on port 40377
+Read port: 40377
+WebDriver BiDi listening on ws://127.0.0.1:33385
+1671590540663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6e1e78/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33385/devtools/browser/d6521dc2-9227-4ec1-bb73-c44ab0aad6dc
+1671590578828	Marionette	INFO	Stopped listening on port 40377
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1671590656688	geckodriver	INFO	Listening on 127.0.0.1:52271
+1671590657173	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3Qe8Vt"
+Gtk-Message: 13:44:17.196: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1671590657757	Marionette	INFO	Marionette enabled
+1671590657762	Marionette	INFO	Listening on port 43697
+Read port: 43697
+WebDriver BiDi listening on ws://127.0.0.1:56515
+1671590657890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3Qe8Vt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56515/devtools/browser/cffadcf5-9b40-47ec-b5b2-696ebaf1a30c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://secure.birds.cornell.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://secure.birds.cornell.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://media.ebird.org."
+1671590694968	Marionette	INFO	Stopped listening on port 43697
+1671590731094	geckodriver	INFO	Listening on 127.0.0.1:37241
+1671590731565	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilel4rUcB"
+Gtk-Message: 13:45:31.588: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1671590732163	Marionette	INFO	Marionette enabled
+1671590732168	Marionette	INFO	Listening on port 37277
+WebDriver BiDi listening on ws://127.0.0.1:60893
+Read port: 37277
+1671590732378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel4rUcB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60893/devtools/browser/b9786c2d-a167-4ed3-8ce3-0f906f0c58ac
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://secure.birds.cornell.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://secure.birds.cornell.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://media.ebird.org."
+1671590864647	Marionette	INFO	Stopped listening on port 37277
+1671592474524	geckodriver	INFO	Listening on 127.0.0.1:55613
+1671592475025	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33411" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHedlda"
+Gtk-Message: 14:14:35.043: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1671592475525	Marionette	INFO	Marionette enabled
+1671592475528	Marionette	INFO	Listening on port 36627
+WebDriver BiDi listening on ws://127.0.0.1:33411
+Read port: 36627
+1671592475742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHedlda/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33411/devtools/browser/644f4bec-a50a-47af-83d6-f303197220ce
+1671592499972	Marionette	INFO	Stopped listening on port 36627
+1671592527345	geckodriver	INFO	Listening on 127.0.0.1:45473
+1671592527853	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "36517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFMfVvY"
+Gtk-Message: 14:15:27.871: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1671592528358	Marionette	INFO	Marionette enabled
+1671592528361	Marionette	INFO	Listening on port 36493
+WebDriver BiDi listening on ws://127.0.0.1:36517
+Read port: 36493
+1671592528576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFMfVvY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36517/devtools/browser/c5aaa3f7-4b52-4c82-95f3-7809673518f1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://secure.birds.cornell.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://secure.birds.cornell.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://media.ebird.org."
+1671592647271	Marionette	INFO	Stopped listening on port 36493
